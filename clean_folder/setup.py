@@ -2,7 +2,7 @@ from setuptools import setup, find_namespace_packages
 
 setup(
     name='clean_folder',
-    version='0.0.2',
+    version='0.1.1',
     description='This package can clen you folder',
     url='https://github.com/IvanyshchivAndrii/home-work-module-6/tree/master/clean_folder/clean_folder',
     author='Ivanyshchiv Andrii',
